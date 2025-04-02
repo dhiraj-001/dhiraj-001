@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Frontend Developer<br>B. Tech CSE (2nd year)<br>Looking for Projects, Internships.
+I'm a Frontend Developer, almost at the finish line for full-stack mastery!<br>B. Tech CSE (2nd year)<br>Looking for Projects, Internships.
 
 
 ## 🌐 Socials:
