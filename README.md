@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 Full Stack Developer <br/> B.Tech CSE (2nd Year) <br/>
-On the verge of full-stack mastery! Passionate about crafting seamless user experiences and building robust backend solutions. Open to exciting projects and internship opportunities—let’s innovate together!
+On the verge of full-stack mastery! Passionate about crafting seamless user experiences and building robust backend solutions.<br/> Open to exciting projects and internship opportunities—let’s innovate together!
 
 
 ## 🌐 Socials:
