@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a Frontend Developer, almost at the finish line for full-stack mastery!<br>B. Tech CSE (2nd year)<br>Looking for Projects, Internships.
+🚀 Full Stack Developer  B.Tech CSE (2nd Year)
+On the verge of full-stack mastery! Passionate about crafting seamless user experiences and building robust backend solutions. Open to exciting projects and internship opportunities—let’s innovate together!
 
 
 ## 🌐 Socials:
