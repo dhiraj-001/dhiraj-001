@@ -1,6 +1,7 @@
 # 💫 About Me:
 🎓 B.Tech CSE (2nd Year) <br/>
 📡 Full Stack Developer<br/>
+📱 App Developer (React Native) <br/>
 💻 Building intuitive front-end experiences ✨ and crafting powerful backend solutions ⚙️.<br/>
 🚀 On the verge of full-stack mastery—always learning, always innovating! 🔥<br/>
 💡 Open to exciting projects and internship opportunities—let’s create something amazing together! <br/>
