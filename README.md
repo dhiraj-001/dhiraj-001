@@ -1,6 +1,16 @@
 # 💫 About Me:
-🎓 B.Tech CSE (3rd Year)<br>📡 Full Stack Developer | 📱 React Native App Developer<br><br>💻 Passionate about building intuitive front-end experiences and developing scalable, high-performance backend systems.<br>⚙️ Skilled in turning ideas into impactful, real-world applications.<br><br>🚀 Continuously evolving toward full-stack excellence—driven by curiosity, learning, and innovation.<br>💡 Open to internships and exciting project collaborations—let’s build something meaningful together!
 
+🎓 B.Tech CSE (3rd Year)  
+📡 Full Stack Developer | 📱 React Native App Developer  
+
+💻 Passionate about building intuitive front-end experiences and scalable, high-performance backend systems.  
+⚙️ Experienced in transforming ideas into real-world, production-ready applications.  
+
+🤖 Strongly focused on **Machine Learning & Data Science**—actively exploring data-driven solutions, building predictive models, and applying analytical techniques to solve real-world problems.  
+📊 Skilled in working with data pipelines, feature engineering, and leveraging tools like NumPy, Pandas, and Scikit-learn.  
+
+🚀 Continuously evolving toward full-stack + AI mastery—driven by curiosity, learning, and innovation.  
+💡 Open to internships, ML/DS projects, and collaborative opportunities—let’s build something impactful together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiraj-gogoi-330008274) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DhirajG01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gogoidhiraj207@gmail.com) 
